@@ -1,67 +1,91 @@
-<!-- <a href="https://fakedarkdev.github.io">
-  <p>
-    <img src="https://discord.c99.nl/widget/theme-1/709311435314036827.png" alt="Discord" />
-  </p>
-</a> -->
+<div align="center">
 
-### I'm a self-taught passionate Developer.
-
-**About me**
-
-- 👨🏼‍🎓 Teen from **India**.
-- 🎀 Checkout my [Portfolio](https://ikrdikhit.github.io)
-- 💼 Developer at [SpicyDevs](https://spicydevs.js.org/)
-- 💬 Find me [here](https://spicydevs.js.org/discord) or mail me [here](mailto:dikhitdas@outlook.com).
-
-<!-- <br />
-
-<a href="https://github.com/fakedarkdev/fakedarkdev">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakedarkdev&layout=compact&show_icons=true&theme=radical" alt="Dikhit's most used languages" title="Dikhit's most used languages" />
-  </p>
-</a>
-<a href="https://github.com/fakedarkdev/fakedarkdev">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=fakedarkdev&show_icons=true&theme=radical" alt="Dikhit's GitHub stats" title="Dikhit's GitHub stats" />
-  </p>
-</a>
-<a href="https://github.com/fakedarkdev/fakedarkdev">
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakedarkdev&theme=radical" alt="Dikhit's streak stats" title="Dikhit's streak stats" />
-  </p>
-</a>
-<a href="https://github.com/fakedarkdev/fakedarkdev">
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=fakedarkdev&theme=radical" alt="Dikhit's Trophies" title="Dikhit's Trophies" />
-  </p>
+<a href="https://ikrdikhit.is-a.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=hey%2C+i'm+dikhit+%F0%9F%91%8B;self-taught+developer;building+for+the+web" alt="Typing SVG" />
 </a>
 
-<br />
+<br/>
 
-<br />
+[![Portfolio](https://img.shields.io/badge/ikrdikhit.is--a.dev-0D1117?style=for-the-badge&logo=cloudflare&logoColor=white)](https://ikrdikhit.is-a.dev)&nbsp;
 
-#### Top Repositories
+[![SpicyDevs](https://img.shields.io/badge/🌶️_SpicyDevs-0D1117?style=for-the-badge)](https://spicydevs.js.org)&nbsp;
+[![X](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikrdikhit)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=e1306c)](https://instagram.com/ikrdikhit)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/709311435314036827)
+[![Email](https://img.shields.io/badge/@_Email-0D1117?style=for-the-badge)](mailto:dikhitdas@outlook.com)&nbsp;
+[![Sponsor](https://img.shields.io/badge/Sponsor-0D1117?style=for-the-badge&logo=github-sponsors&logoColor=ea4aaa)](https://github.com/sponsors/ikrdikhit)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-0D1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/dikhit)
 
-<a href="https://github.com/fakedarkdev/fakedarkdev.github.io">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fakedarkdev&repo=fakedarkdev.github.io&show_icons=true&theme=radical" alt="Dikhit's top repos" title="Dikhit's top repos"  />
-  </p>
-</a>
+[![Discord Server](https://img.shields.io/discord/990483604532502538?style=for-the-badge&logo=discord&logoColor=5865F2&label=SpicyDevs&labelColor=0D1117&color=0D1117)](https://spicydevs.js.org/discord)
 
-<a href="https://github.com/fakedarkdev/fakedarkdev">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fakedarkdev&repo=fakedarkdev&show_icons=true&theme=radical" alt="Dikhit's top repos" title="Dikhit's top repos" />
-  </p>
-</a>
+</div>
 
-<br />
+<br/>
 
-<br /> -->
+```ts
+const dikhit = {
+  role     : "Developer @ SpicyDevs",
+  crafts   : ["web dev", "discord bots", "ui/ux", "open source", "freelance"],
+  writing  : "occasionally at ikrdikhit.is-a.dev/blogs",
+  contact  : "dikhitdas@outlook.com",
+};
+```
 
-### Current Discord Status (Click below for my discord profile)
+- 🔭 &nbsp;Building **[Posterium](https://posters.spicydevs.xyz/)**
+- 💼 &nbsp;Developer at **[SpicyDevs](https://spicydevs.js.org)** — a community of passionate builders
+- 🤝 &nbsp;Open to collabs, open-source contributions, and interesting freelance work
 
-<a href="https://discordapp.com/users/709311435314036827">
-  <p>
-    <img src="https://lanyard.cnrad.dev/api/709311435314036827?showDisplayName=true&bg=141321&idleMessage=Probably%20busy%20with%20something%20else..." alt="My Discord" title="Click for my discord profile">
-  </p>
-</a>
+<br/>
+
+### 💻 Tech Stack & Tools
+
+**Languages** <br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,lua,bash" />
+
+**Frontend & Frameworks** <br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,framer" />
+
+**Backend & Databases** <br>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,mysql,sqlite,redis" />
+
+**DevOps, Hosting & OS** <br>
+<img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,vercel,cloudflare" />
+
+**Tools & Design** <br>
+<img src="https://skillicons.dev/icons?i=neovim,vscode,npm,figma,discord,jest,vitest" />
+
+<br/>
+
+### 🧠 Core Competencies & Other Tools
+* **Design & UX:** Figma, GIMP, UI/UX Design, Prototyping, Typography, Motion Graphics, Photo/Video Editing, Spriting
+* **Tooling & Code Quality:** Prettier, Git/GitHub, Unit Testing
+* **Concepts & Methodologies:** AI Integrations, Prompt Engineering, JSON/REST APIs
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrdikhit&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&stroke=0d1117&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikrdikhit&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+### 🎧 Discord Status
+
+<div align="center">
+
+[![Discord](https://lanyard.cnrad.dev/api/709311435314036827?showDisplayName=true&bg=0d1117&animated=true&idleMessage=Probably+busy+with+something...&borderRadius=10px)](https://discordapp.com/users/709311435314036827)
+
+<br/>
+<br/>
+
+*stay hungry, stay brave.*
+
+</div>
